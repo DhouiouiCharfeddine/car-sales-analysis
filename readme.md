@@ -144,11 +144,4 @@ This project demonstrates:
 - **LinkedIn:** [Charfeddine Dhouioui](https://www.linkedin.com/in/charfeddine-dhouioui-987ab7318)
 - **Email:** [dhouiouicharfeddine@gmail.com](mailto\:dhouiouicharfeddine@gmail.com)
 
----
-
-*To download this README file:*
-
-1. Click the **“…”** menu in the top-right of the Canvas document.
-2. Select **“Download” → “Markdown (.md)”**.
-3. Save it in your project folder as `README.md`.
 
