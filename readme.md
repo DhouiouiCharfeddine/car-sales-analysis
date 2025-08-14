@@ -28,7 +28,7 @@ End-to-end data analytics project analyzing **car sales data** from Kaggle. Incl
 ├── CleanedCarSales.xlsx                   # Cleaned dataset after preprocessing
 ├── CarSalesEDA.ipynb                      # Jupyter Notebook for exploratory data analysis
 ├── Customer Analysis.pbix                 # Power BI dashboard file
-├── dashboards_screenshots/                # Folder containing dashboard images
+├── Auto_Sales_Performance_Dashboard.pdf   # the dashboards created
 └── README.md                              # Project documentation
 ```
 
